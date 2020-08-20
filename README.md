@@ -1,10 +1,9 @@
-
 <h1 align='center'>
   Hi there 👋 I'm   <a href="https://www.linkedin.com/in/ratneshchandra13sep/">
   Ratnesh Chandra</a> 👨‍💻
 </h1>
 <p align='center'>
-  Fullstack Developer from India
+  Full Stack Developer from India
 </p>
 <p align='center'>
  
