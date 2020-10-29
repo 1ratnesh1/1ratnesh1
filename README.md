@@ -3,7 +3,7 @@
 I'm <a href="https://www.linkedin.com/in/ratneshchandra13sep/"> Ratnesh Chandra</a> 👨‍💻
 </h1>
 <p align='center'>
-  Full Stack Developer
+  Sr. Full Stack Developer
 </p>
 <p align='center'>
  
